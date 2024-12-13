@@ -1,0 +1,9 @@
+{
+  "model": "vicuna-7b-v1.5",
+  "messages": [
+    {
+      "role": "user",
+      "content": "From this text, tell me the name and summerize the problem in a JSON format: {name,problem}\n hello  babak zarrinbal here  and i have leakage through my roof and i don't know where it comes from"
+    }
+  ]
+}
